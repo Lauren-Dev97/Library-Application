@@ -1,0 +1,6 @@
+Book,1,Twilight,Stephanie Meyer,Fiction,0
+Book,6,The Alchemist,Paulo Coelho,Fiction,0
+Book,2,1984,George Orwell,Dystopian,1
+Magazine,3,National Geographic,Editorial Team,102,0
+Magazine,4,Time,Time Editors,215,1
+Book,5,To Kill a Mockingbird,Harper Lee,Classic,0
