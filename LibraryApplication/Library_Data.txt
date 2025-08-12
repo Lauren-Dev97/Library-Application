@@ -1,0 +1,20 @@
+Book|The Great Gatsby|F. Scott Fitzgerald|1|Classic|0
+Book|1984|George Orwell|2|Dystopian|1
+Book|To Kill a Mockingbird|Harper Lee|3|Classic|0
+Book|The Catcher in the Rye|J.D. Salinger|4|Fiction|0
+Book|Pride and Prejudice|Jane Austen|5|Romance|1
+Book|Brave New World|Aldous Huxley|6|Sci-Fi|0
+Book|The Hobbit|J.R.R. Tolkien|7|Fantasy|1
+Book|Moby Dick|Herman Melville|8|Adventure|0
+Book|Frankenstein|Mary Shelley|9|Horror|0
+Book|The Alchemist|Paulo Coelho|10|Philosophy|0
+Magazine|National Geographic|Various|11|145|0
+Magazine|Time|Time Editors|12|52|1
+Magazine|Scientific American|Various|13|301|0
+Magazine|Forbes|Forbes Media|14|75|0
+Magazine|The Economist|Economist Group|15|43|1
+Magazine|Popular Science|Various|16|221|0
+Magazine|Nature|Nature Publishing|17|502|0
+Magazine|New Scientist|Various|18|328|1
+Magazine|Smithsonian|Smithsonian Institution|19|192|0
+Magazine|Wired|Condé Nast|20|310|0
